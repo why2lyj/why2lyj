@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=why2lyj&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 😄 I'm Snow Wang
-- I'm a PM from xxx company(I don't want let you know), I was a member of HP and Motolola
+- I'm a PM from H3C, I was a member of HP and Motolola
 - You can reach me by email if you have any question
