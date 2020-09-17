@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - I'm a PM from H3C, I was a member of HP and Motolola
 - You can reach me by email if you have any question
 
-<a href="http://www.farseer.vip/"><img src="https://badges.toozhao.com/badges/01EJD7XS8AGFF0Z9B8ADNKZTBC/green.svg" width=400/></a>
+<a href="http://www.farseer.vip/"><img src="https://badges.toozhao.com/badges/01EJD7XS8AGFF0Z9B8ADNKZTBC/green.svg" width=200/></a>
